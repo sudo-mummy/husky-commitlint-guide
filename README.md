@@ -6,6 +6,8 @@
 
 > Guide complet pour automatiser la qualité des commits Git dans vos projets Next.js
 
+## Decouvrir le guide ici : [https://sudo-mummy.github.io/husky-commitlint-guide/](https://sudo-mummy.github.io/husky-commitlint-guide/)
+
 ## 🎯 Pourquoi ce guide ?
 
 Vous en avez marre des messages de commit comme `"fix truc"` ou `"wip"` ?  
